@@ -1,6 +1,8 @@
-package com.perfomatix.flightsservice.rest;
+package com.perfomatix.flightsservice.util;
 
 import java.util.Comparator;
+
+import com.perfomatix.flightsservice.model.Flight;
 
 public class FlightComparator implements Comparator<Flight> {
 

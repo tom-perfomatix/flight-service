@@ -1,4 +1,4 @@
-package com.perfomatix.flightsservice.rest;
+package com.perfomatix.flightsservice.model;
 
 public class Flight {
 
